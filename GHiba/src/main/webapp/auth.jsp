@@ -15,12 +15,7 @@
 	String email = request.getParameter("email");
 	String password = request.getParameter("password");
 	User u = us.findUser(email, password);
-	%>
-	<script>
-	alert("<%=u.toString() %>" );
-	</script>
-	<%   
-/*	if (email.equals(u.getEmail()) && password.equals(u.getPassword())) {
+	if (email.equals(u.getEmail()) && password.equals(u.getPassword())) {
 		if(u.getEtat()==1){
 			session.setAttribute("user", u.getUsername());
 	 		session.setAttribute("Error", "");
@@ -34,10 +29,7 @@
 		session.setAttribute("Error", "Mot de passe incorrect");
 		response.sendRedirect("Login.jsp");
 		
-	
 	}
-	*/
-	
 	%>
 
 </body>
