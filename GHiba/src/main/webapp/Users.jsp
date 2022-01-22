@@ -523,12 +523,12 @@
 		   $("#utel").val("")
 		   $("#upass").val("")
 		   $("#upass1").val("")
-  		$("#addU").show();
-  		$("#mod").hide();
-  		$("#la1").show();
-  		$("#la").show();
-  		$("#upass").show();
-  		$("#upass1").show();
+  		   $("#addU").show();
+  		   $("#mod").hide();
+  		   $("#la1").show();
+  		   $("#la").show();
+  		   $("#upass").show();
+  		   $("#upass1").show();
 	}
 	
 	
