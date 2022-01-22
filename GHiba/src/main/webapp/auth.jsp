@@ -17,7 +17,7 @@
 	User u = us.findUser(email, password);
 	%>
 	<script>
-	alert("<%=email + ' ' + password %>" );
+	alert("<%=u.toString() %>" );
 	</script>
 	<%   
 /*	if (email.equals(u.getEmail()) && password.equals(u.getPassword())) {
