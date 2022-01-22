@@ -6,8 +6,8 @@ import java.sql.SQLException;
 
 public class Connexion {
 
-	private static String login = "root";
-	private static String password = "";
+	private static String login = "uqn5zqzmxasp4odv";
+	private static String password = "pkoeejia7b8vjv93";
 //    private static String url = "jdbc:mysql://localhost/gmachine";
 	private static String url = "jdbc:mysql://i8obauya8ad8cdog:oe46qo01adcqujy7@kutnpvrhom7lki7u.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306/ulgfqpmmijv720vi";
 	private Connection connection = null;
