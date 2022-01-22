@@ -11,7 +11,7 @@
     <div class="collapse navbar-collapse  w-auto  max-height-vh-100" id="sidenav-collapse-main">
       <ul class="navbar-nav">
         <li class="nav-item">
-          <a class="nav-link text-white active bg-gradient-primary" href="../GHiba/index.jsp">
+          <a class="nav-link text-white active bg-gradient-primary" href="..index.jsp">
             <div class="text-white text-center me-2 d-flex align-items-center justify-content-center">
               <i class="material-icons opacity-10">dashboard</i>
             </div>
@@ -19,7 +19,7 @@
           </a>
         </li>
         <li class="nav-item">
-          <a class="nav-link text-white " href="../GHiba/Salle.jsp">
+          <a class="nav-link text-white " href="..Salle.jsp">
             <div class="text-white text-center me-2 d-flex align-items-center justify-content-center">
               <i class="fas fa-door-open"></i>
             </div>
@@ -27,7 +27,7 @@
           </a>
         </li>
         <li class="nav-item">
-          <a class="nav-link text-white " href="../GHiba/Machine.jsp">
+          <a class="nav-link text-white " href="..Machine.jsp">
             <div class="text-white text-center me-2 d-flex align-items-center justify-content-center">
               <i class="fa fa-desktop"></i>
             </div>
@@ -35,7 +35,7 @@
           </a>
         </li>
          <li class="nav-item">
-          <a class="nav-link text-white " href="../GHiba/MachiAchetes.jsp">
+          <a class="nav-link text-white " href="..MachiAchetes.jsp">
             <div class="text-white text-center me-2 d-flex align-items-center justify-content-center">
               <i class="fa fa-desktop"></i>
             </div>
@@ -51,7 +51,7 @@
           </a>
         </li>
         <li class="nav-item">
-          <a class="nav-link text-white " href="../GHiba/Users.jsp">
+          <a class="nav-link text-white " href="..Users.jsp">
             <div class="text-white text-center me-2 d-flex align-items-center justify-content-center">
               <i class="fas fa-user-alt"></i>
             </div>
