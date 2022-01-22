@@ -20,7 +20,7 @@
 	alert("<%=email + ' ' + password %>" );
 	</script>
 	<%   
-	if (email.equals(u.getEmail()) && password.equals(u.getPassword())) {
+/*	if (email.equals(u.getEmail()) && password.equals(u.getPassword())) {
 		if(u.getEtat()==1){
 			session.setAttribute("user", u.getUsername());
 	 		session.setAttribute("Error", "");
@@ -36,6 +36,7 @@
 		
 	
 	}
+	*/
 	
 	%>
 
