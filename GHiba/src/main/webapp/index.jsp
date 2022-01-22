@@ -78,7 +78,7 @@
 
 		try {
 			Class.forName("com.mysql.cj.jdbc.Driver");
-			Connection connection = DriverManager.getConnection("jdbc:mysql://localhost/gmachine", "root", "");
+			Connection connection = DriverManager.getConnection("jdbc:mysql://uqn5zqzmxasp4odv:pkoeejia7b8vjv93@i0rgccmrx3at3wv3.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306/qufrpew79thl5tzy", "uqn5zqzmxasp4odv", "pkoeejia7b8vjv93");
 			Statement statement = connection.createStatement();
 			String xVal, yVal;
 
