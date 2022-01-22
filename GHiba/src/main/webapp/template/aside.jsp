@@ -19,7 +19,7 @@
           </a>
         </li>
         <li class="nav-item">
-          <a class="nav-link text-white " href="..Salle.jsp">
+          <a class="nav-link text-white " href="Salle.jsp">
             <div class="text-white text-center me-2 d-flex align-items-center justify-content-center">
               <i class="fas fa-door-open"></i>
             </div>
@@ -27,7 +27,7 @@
           </a>
         </li>
         <li class="nav-item">
-          <a class="nav-link text-white " href="..Machine.jsp">
+          <a class="nav-link text-white " href="Machine.jsp">
             <div class="text-white text-center me-2 d-flex align-items-center justify-content-center">
               <i class="fa fa-desktop"></i>
             </div>
@@ -35,7 +35,7 @@
           </a>
         </li>
          <li class="nav-item">
-          <a class="nav-link text-white " href="..MachiAchetes.jsp">
+          <a class="nav-link text-white " href="MachiAchetes.jsp">
             <div class="text-white text-center me-2 d-flex align-items-center justify-content-center">
               <i class="fa fa-desktop"></i>
             </div>
@@ -43,7 +43,7 @@
           </a>
         </li>
         <li class="nav-item">
-          <a class="nav-link text-white " href="../GHiba/User.jsp">
+          <a class="nav-link text-white " href="User.jsp">
             <div class="text-white text-center me-2 d-flex align-items-center justify-content-center">
               <i class="fas fa-user-alt"></i>
             </div>
@@ -51,7 +51,7 @@
           </a>
         </li>
         <li class="nav-item">
-          <a class="nav-link text-white " href="..Users.jsp">
+          <a class="nav-link text-white " href="Users.jsp">
             <div class="text-white text-center me-2 d-flex align-items-center justify-content-center">
               <i class="fas fa-user-alt"></i>
             </div>
